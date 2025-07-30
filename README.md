@@ -7,14 +7,15 @@ Este é um projeto simples em Python para verificar se uma lista de sites está 
 1. Clone este repositório.
 2. Crie e ative um ambiente virtual:
 
+   ```bash
    python -m venv venv
-
    source venv/bin/activate
 
-3. Instale as dependências:
-
+4. Instale as dependências:
+   ```bash
    pip install -r requirements.txt
 
-4. Execute o programa:
+5. Execute o programa:
 
+   ```bash
    python src/main.py
